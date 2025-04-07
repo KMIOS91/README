@@ -1,4 +1,4 @@
-# Bonjour 👋, I'm Modibo
+# Bonjour 👋, Je suis Modibo
 Je suis un étudiant de 26 ans spécialisé dans le développement mobile iOS, passionné par la création d'applications élégantes et performantes pour l'écosystème Apple. Actuellement, j'explore les dernières technologies iOS.
 
 🚀 Ce que je fais:
@@ -21,6 +21,6 @@ Outils: Xcode, Git, GitHub
 
 Tests: XCTest
 
-📫 Contactez-moi: Email: modykeita2@gmail.com
+📫 Contactez-moi: Email: keitaios.91@gmail.com
 
 Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à consulter mes projets et à me contacter si vous souhaitez échanger ou travailler ensemble !
